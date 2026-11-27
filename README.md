@@ -1,12 +1,11 @@
-I build Expo apps and the Cloudflare Workers behind them, mostly for [Celedom](https://celedom.com), from Accra.
+Software engineer in Accra, working across mobile, backend, and AI (mostly at [Celedom](https://celedom.com) on Expo, Cloudflare Workers, and an internal AI assistant).
 
-I built Celedom's staff chat. It's local-first on SQLite, so it opens instantly on a bad connection, and an unsent message survives a force-quit. The assistant inside it is mine too: it answers from the chat but won't tell you what's in a DM you're not in, or in a mailbox you've lost access to. In its latest eval, all 29 safety cases passed on every one of 3 runs.
+A few things I've built:
+- [drizzle-expo-sqlite](https://github.com/emmanuelchucks/drizzle-expo-sqlite): local-first Expo app with Drizzle and SQLite
+- [GroqDictate](https://github.com/emmanuelchucks/GroqDictate): native Swift dictation for macOS and iPhone on Groq Whisper
+- [patchmarks.nvim](https://github.com/emmanuelchucks/patchmarks.nvim): file-oriented Git review notes in Neovim
+- [DataMeter](https://github.com/emmanuelchucks/DataMeter): per-app network usage on macOS from `nettop` counters
 
-Bugs my agents ran into that I fixed upstream: [agent-device](https://github.com/callstack/agent-device/pull/1776) (merged) · [e2e](https://github.com/e2e-inc/e2e/pull/2241) (in review)
+Upstream fixes in [callstack/agent-device](https://github.com/callstack/agent-device/pull/1776) and [solid-primitives](https://github.com/solidjs-community/solid-primitives/pull/1126).
 
-- [drizzle-expo-sqlite](https://github.com/emmanuelchucks/drizzle-expo-sqlite): local-first notes on Expo, Drizzle and SQLite. 61 stars; only my 2021 Uber clone has more.
-- [GroqDictate](https://github.com/emmanuelchucks/GroqDictate): press Right ⌘, talk, and the text lands where you were. I built it after three other dictation apps annoyed me.
-- [patchmarks.nvim](https://github.com/emmanuelchucks/patchmarks.nvim): line notes on a Git change in Neovim, sent back to the agent that wrote it.
-- [DataMeter](https://github.com/emmanuelchucks/DataMeter): which app on my Mac ate my data this week.
-
-[site](https://emmanuelchucks.com) · [x](https://x.com/emmanuelchucks)
+[emmanuelchucks.com](https://emmanuelchucks.com) · [x](https://x.com/emmanuelchucks)
