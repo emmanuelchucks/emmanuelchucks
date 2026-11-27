@@ -6,6 +6,6 @@ A few things I've built:
 - [patchmarks.nvim](https://github.com/emmanuelchucks/patchmarks.nvim): file-oriented Git review notes in Neovim
 - [DataMeter](https://github.com/emmanuelchucks/DataMeter): per-app network usage on macOS from `nettop` counters
 
-Upstream fixes in [callstack/agent-device](https://github.com/callstack/agent-device/pull/1776) and [solid-primitives](https://github.com/solidjs-community/solid-primitives/pull/1126).
+Upstream fixes in [callstack/agent-device](https://github.com/callstack/agent-device/pull/1776), [honojs/create-hono](https://github.com/honojs/create-hono/pull/39), [withastro/astro](https://github.com/withastro/astro/pull/5038), and [solid-primitives](https://github.com/solidjs-community/solid-primitives/pull/1126).
 
 [emmanuelchucks.com](https://emmanuelchucks.com) · [x](https://x.com/emmanuelchucks)
